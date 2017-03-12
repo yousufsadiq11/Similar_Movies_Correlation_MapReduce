@@ -28,7 +28,6 @@ import org.apache.hadoop.io.Text;
 import org.cloud.data.MovieList.Map;
 import org.cloud.data.MovieList.Reduce;
 
-
 public class Driver extends Configured implements Tool  {
 	 public int run( String[] args) throws  Exception {
 	     Job job1  = Job .getInstance(getConf(), " JOB1 ");
