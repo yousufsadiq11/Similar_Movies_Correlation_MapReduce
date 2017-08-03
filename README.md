@@ -1,6 +1,6 @@
-# Similar_Movies_Correlation_Using_MapReduce
+# Similar Movies Correlation Using MapReduce
 
-Technologies / Frameworks used: Hadoop, Java, Bash(shell)
+Technologies / Frameworks used: Hadoop MapReduce, Java, Bash(shell)
 
 Platform: Eclipse IDE, Cloudera VM
 
